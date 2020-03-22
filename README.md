@@ -1,9 +1,6 @@
 # SNI
 
-- Constants for max values (ylim)
-- seaborn for facades
-
-- deferred incubation time plots
+- Relative numbers / no of inhabitants
 - Events like Ausgangsperren
 
 - Same for italy...
