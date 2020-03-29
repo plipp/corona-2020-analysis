@@ -4,7 +4,7 @@ On base of the data the of the [Berliner Morgenpost](https://interaktiv.morgenpo
 
 ## Notebooks
 
-- Germany-corona-virus-timelines:
+- COVID-19-Germany - Case Overview.ipynb:
   Timelines with absolute cases, absolute growth and growth factor for whole Germany and its federal states.
 
 - 
