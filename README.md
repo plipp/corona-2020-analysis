@@ -7,7 +7,8 @@ On base of the data the of the [Berliner Morgenpost](https://interaktiv.morgenpo
 - COVID-19-Germany - Case Overview.ipynb:
   Timelines with absolute cases, absolute growth and growth factor for whole Germany and its federal states.
 
--
+- COVID-19-Germany - Geo Case Hotspot Analysis.ipynb:
+  Chorophletes of the German federation states with confirmed and active cases and the current growth factors by state
 
 # Kudos ..
 
