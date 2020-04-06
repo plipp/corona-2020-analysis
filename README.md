@@ -24,5 +24,5 @@ On base of the data the of the [Berliner Morgenpost](https://interaktiv.morgenpo
 
 # Statistical Data Sources
 
-- [https://www.diva-gis.org/gdata](German Geo Shapes)
-- [https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesl%C3%A4nder_nach_Bev%C3%B6lkerung](German Inhabitant numbers)
+- [German Geo Shapes](https://www.diva-gis.org/gdata)
+- [German Inhabitant numbers](https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesl%C3%A4nder_nach_Bev%C3%B6lkerung)
