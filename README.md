@@ -1,29 +1,8 @@
 # Analysis of the Corona Outbreak 2020
 
-On base of the data the of the [Berliner Morgenpost](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/) the following notebooks try to analyze the current Corona situation.
+My jupyter Analysis Notebooks now can be found in Kaggle:
 
-## Notebooks
+- [COVID-19-Germany - Case Overview](https://www.kaggle.com/pat777/covid-19-germany-case-overview/)
+- [COVID-19-Germany - Geo Case Hotspot Analysis](https://www.kaggle.com/pat777/covid-19-germany-geo-case-hotspot-analysis/)
+- [COVID-19-Berlin](https://www.kaggle.com/pat777/covid-19-berlin)
 
-- COVID-19-Germany - Case Overview.ipynb:
-  Timelines with absolute cases, absolute growth and growth factor for whole Germany and its federal states.
-
-- COVID-19-Germany - Geo Case Hotspot Analysis.ipynb:
-  Chorophletes of the German federation states with confirmed and active cases and the current growth factors by state
-
-# Kudos ..
-
-... to the great Data Team of the [Berliner Morgenpost](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/), which tirelessly collects current case data and seems to be the best informed source in Germany!!!
-
-# Requirements
-
-- [Anaconda for Python 3.7](https://www.anaconda.com/distribution/)
-- Additional libraries:
-  ```
-  conda install geopandas
-  conda install -c conda-forge geoplot
-  ```
-
-# Statistical Data Sources
-
-- [German Geo Shapes](https://www.diva-gis.org/gdata)
-- [German Inhabitant numbers](https://de.wikipedia.org/wiki/Liste_der_deutschen_Bundesl%C3%A4nder_nach_Bev%C3%B6lkerung)
